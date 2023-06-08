@@ -6,6 +6,7 @@
     "MD024": {"allow_different_nesting": true},   // no-duplicate-header
     "MD026": {"punctuation": ".,;:"},             // no-trailing-punctuation (allows !?)
     "MD033": false,                               // no-inline-html
+    "MD034": false,                               // bare URLs
     "MD035": {"style": "---"},                    // hr-style
     "MD036": {"punctuation": ".,;:!。"},          // no-emphasis-as-header
     "MD041": false,                               // first-line-h1
