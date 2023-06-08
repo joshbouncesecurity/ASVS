@@ -17,5 +17,5 @@ jobs:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'yes'
           config-file: '.github/workflows/config/url-checker-config.json'
-          folder-path: './5.0*'
+          folder-path: './5.0/'
           check-modified-files-only: 'yes'
